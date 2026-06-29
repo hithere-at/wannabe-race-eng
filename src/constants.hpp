@@ -66,7 +66,7 @@
 #define PIT_PITTING 1
 #define PIT_IN_PIT_AREA 2
 
-// define sector PIT_IN_PIT_AREA
+// define sectors
 #define SEC_SECTOR_1 0
 #define SEC_SECTOR_2 1
 #define SEC_SECTOR_3 2
