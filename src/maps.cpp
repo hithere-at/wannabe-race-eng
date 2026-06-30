@@ -31,8 +31,8 @@ std::unordered_map<uint8_t, const char *> FUEL_MIX_VALUE = {
 
 std::unordered_map<uint8_t, const char *> TYRE_TYPE_VALUE = {
     {16, "SOFT"}, {17, "MEDIUM"}, {18, "HARD"}, {7, "INTERMEDIATE"},
-    {8, "WET"}, {9, "DRY"}, {10, "WET"}, {11, "SUPER SOFT"},
-    {12, "SOFT"}, {13, "MEDIUM"}, {14, "HARD"}, {15, "WET"}
+    {8, "WET"}, {9, "DRY"}, {10, "WET"}, {23, "SUPER SOFT"},
+    {24, "SOFT"}, {25, "MEDIUM"}, {14, "HARD"}, {15, "WET"}
 };
 
 std::unordered_map<uint8_t, const char *> FLAG_VALUE = {
